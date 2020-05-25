@@ -11,6 +11,6 @@ resource about AD learning and development<br>
 * [self-driving cars with Carla and Python](https://www.youtube.com/watch?v=J1F32aVSYaU&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo)it's a course came from YouTube in which author uses a kind of reinforcement-learning(RL) algorithm(DQN) to create a agent which is a self-driving car in the simulator Carla. certainly you can find [it](https://www.bilibili.com/video/BV1v7411o7wr) as well.<br>
 ## Something to read
 * Blogger
-** [卿颜](https://www.zhihu.com/people/tu-xing-16/posts)
-** [tinmode(myself)](https://www.zhihu.com/people/tinmode)
-** [机器之心](https://www.zhihu.com/org/ji-qi-zhi-xin-65)
+** [卿颜](https://www.zhihu.com/people/tu-xing-16/posts)<br>
+** [tinmode(myself)](https://www.zhihu.com/people/tinmode)<br>
+** [机器之心](https://www.zhihu.com/org/ji-qi-zhi-xin-65)<br>
