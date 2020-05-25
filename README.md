@@ -3,7 +3,7 @@ resource about AD learning and development<br>
 ## Table of contents
 ## Autonomous driving technology stack
 [its Chinese edition](https://naotu.baidu.com/file/73dc7a98ec0186eb6466af602bc02cce?token=10c131d90ea5e013)<br>
-![](https://github.com/tinmodeHuang/autonomous-driving-resource/ raw / technology_stack.png
+![](https://github.com/tinmodeHuang/autonomous-driving-resource/ raw / technology_stack.png)
 
 ## Courses
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu/) - this is a course came out in 2018, including self-driving car and deep-learning(DL), can help beginners to lean about applications of deep-learning in the self-driving car field.<br>
