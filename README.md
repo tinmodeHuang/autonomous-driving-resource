@@ -2,7 +2,7 @@
 resource about AD learning and development<br>
 ## Table of contents
 ## Autonomous driving technology stack
-[its Chinese edition](https://naotu.baidu.com/file/73dc7a98ec0186eb6466af602bc02cce?token=10c131d90ea5e013)<br>
+[here is its Chinese edition](https://naotu.baidu.com/file/73dc7a98ec0186eb6466af602bc02cce?token=10c131d90ea5e013)<br>
 ![](https://github.com/tinmodeHuang/autonomous-driving-resource/raw/master/technology_stack.png)
 
 ## Courses
