@@ -16,4 +16,4 @@ resource about AD learning and development<br>
   * [tinmode(myself)](https://www.zhihu.com/people/tinmode)
   * [机器之心](https://www.zhihu.com/org/ji-qi-zhi-xin-65)
   * Apollo community Wechat account<br>
-  ![](https://github.com/tinmodeHuang/autonomous-driving-resource/raw/master/2020-04-17 232740.gif)
+  ![](https://github.com/tinmodeHuang/autonomous-driving-resource/raw/master/2020-04-17232740.gif)
