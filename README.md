@@ -1,5 +1,5 @@
 # autonomous-driving-resource
-resource about AD learning and development<br>
+resource about learning AD and development<br>
 ## Table of contents
 ## Autonomous driving technology stack
 The corresponding Chinese edition is [here](https://naotu.baidu.com/file/73dc7a98ec0186eb6466af602bc02cce?token=10c131d90ea5e013)<br>
@@ -15,5 +15,6 @@ The corresponding Chinese edition is [here](https://naotu.baidu.com/file/73dc7a9
   * [卿颜](https://www.zhihu.com/people/tu-xing-16/posts)
   * [tinmode(myself)](https://www.zhihu.com/people/tinmode)
   * [机器之心](https://www.zhihu.com/org/ji-qi-zhi-xin-65)
-  * Apollo community Wechat account<br>![](https://github.com/tinmodeHuang/autonomous-driving-resource/raw/master/code.gif)
   * [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
+  * Apollo community Wechat account<br>![](https://github.com/tinmodeHuang/autonomous-driving-resource/raw/master/code.gif)
+
