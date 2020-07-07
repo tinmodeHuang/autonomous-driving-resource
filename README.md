@@ -10,7 +10,7 @@ The corresponding Chinese edition is [here](https://naotu.baidu.com/file/73dc7a9
 * [Apollo Autopilot Introduction](http://bit.baidu.com/product?sort=%5Bobject%20Object%5D) - it is a Chinese course by the Baidu, which is very comprehensive and detailed:star::star::star::star::star:<br>
 * [self-driving cars with Carla and Python](https://www.youtube.com/watch?v=J1F32aVSYaU&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo) - it's a course came from YouTube in which author uses one of Reinforcement Learning algorithms(DQN) to create a agent which is a self-driving car in the simulator Carla. certainly you can find [it](https://www.bilibili.com/video/BV1v7411o7wr) as well:star::star::star::star:
 * [self-driving cars](https://www.coursera.org/specializations/self-driving-cars?skipBrowseRedirect=true) - it's a specialization on the Coursera offered by the University of Toronto, but it isn't in my recommendation list:star:
-## Something to read
+## Readers
 * Blog(ger)
   * [卿颜](https://www.zhihu.com/people/tu-xing-16/posts)
   * [tinmode(myself)](https://www.zhihu.com/people/tinmode)
