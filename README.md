@@ -11,8 +11,9 @@ The corresponding Chinese edition is [here](https://naotu.baidu.com/file/73dc7a9
 * [self-driving cars with Carla and Python](https://www.youtube.com/watch?v=J1F32aVSYaU&list=PLQVvvaa0QuDeI12McNQdnTlWz9XlCa0uo)it's a course came from YouTube in which author uses a kind of reinforcement-learning(RL) algorithm(DQN) to create a agent which is a self-driving car in the simulator Carla. certainly you can find [it](https://www.bilibili.com/video/BV1v7411o7wr) as well.<br>
 * [self-driving cars](https://www.coursera.org/specializations/self-driving-cars?skipBrowseRedirect=true) - it's a specialization offered by the University of Toronto, but it isn't in my recommendation list.
 ## Something to read
-* Blogger
+* Blog(ger)
   * [卿颜](https://www.zhihu.com/people/tu-xing-16/posts)
   * [tinmode(myself)](https://www.zhihu.com/people/tinmode)
   * [机器之心](https://www.zhihu.com/org/ji-qi-zhi-xin-65)
   * Apollo community Wechat account<br>![](https://github.com/tinmodeHuang/autonomous-driving-resource/raw/master/code.gif)
+  * [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
